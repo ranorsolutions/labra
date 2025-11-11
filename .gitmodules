@@ -1,0 +1,6 @@
+[submodule "assets/scripts/cli"]
+	path = assets/scripts/cli
+	url = git@github.com:ranorsolutions/labra-cli
+[submodule "services/db"]
+	path = services/db
+	url = git@github.com:ranorsolutions/labra-svc-db
