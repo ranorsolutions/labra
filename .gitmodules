@@ -7,3 +7,9 @@
 [submodule "assets/lib/models"]
 	path = assets/lib/models
 	url = git@github.com:ranorsolutions/labra-models
+[submodule "assets/lib/svc-common-go"]
+	path = assets/lib/svc-common-go
+	url = git@github.com:ranorsolutions/svc-common-go
+[submodule "assets/lib/http-common-go"]
+	path = assets/lib/http-common-go
+	url = git@github.com:ranorsolutions/http-common-go
