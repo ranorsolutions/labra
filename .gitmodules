@@ -13,3 +13,6 @@
 [submodule "assets/lib/http-common-go"]
 	path = assets/lib/http-common-go
 	url = git@github.com:ranorsolutions/http-common-go
+[submodule "assets/lib/platform"]
+	path = assets/lib/platform
+	url = git@github.com:ranorsolutions/labra-platform
